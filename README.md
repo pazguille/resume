@@ -16,8 +16,11 @@ Ability to define and maintain complex and well crafted stylesheets.
 
 # Personal Details
 Birth: May 28, 1988
+
 Address: Capital Federal, Buenos Aires, Argentina
+
 E-mail: guille87paz@gmail.com
+
 Website: http://pazguille.me
 
 # Professional Experience
@@ -57,14 +60,17 @@ I have a broad understanding of the full Open Web Stack of technologies:
 
 ### 2008–2011
 **Diseñador y Administrador de Sitios Web.**
+
 Intituto de Arte Multimedial Da Vinci.
 
 ### 2006–2007
 First 2 years of **Licenciatura en Análisis de Sistemas.**
+
 Universidad de Buenos Aires.
 
 ### 2001–2005
 **Bachiller con Capacitación Laboral en Comunicación Social**
+
 Insituto Ana María Janer.
 
 # Honors and Awards
