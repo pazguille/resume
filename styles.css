@@ -37,6 +37,10 @@ h2 {
     font-size: 150%;
 }
 
+p {
+    margin: 0.3em 0;
+}
+
 abbr[title] {
     border-bottom: 1px dotted #4F6128;
     cursor: help;
