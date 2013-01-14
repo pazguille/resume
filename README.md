@@ -10,14 +10,10 @@ I know and love the good parts of JavaScript. I love taking advantage of awesome
 
 I keep a close eye on trends and innovations in the field of browser interfaces, JavaScript development and web technologies. I love and desire to experiment with new technologies.
 
-Ability to define and maintain complex and well crafted stylesheets.
-
-5 years developing clean, valid, and compatible websites, libraries and applications.
-
 # Personal Details
 Birth: May 28, 1988
 
-Address: Capital Federal, Buenos Aires, Argentina
+Address: Buenos Aires, Argentina
 
 E-mail: guille87paz@gmail.com
 
@@ -45,13 +41,13 @@ I have a broad understanding of the full Open Web Stack of technologies:
 *   Expert understanding of web technologies (object-oriented JavaScript, HTML, CSS).
 *   Expert level knowledge of HTML y CSS.
 *   Expert at writing semantic and well formed HTML.
-*   Experience developing JavaScript libraries.
-*   Experience writing vanilla Javascript.
+*   Experience at developing JavaScript libraries.
+*   Experience at writing vanilla Javascript.
 *   Experience with JavaScript libraries (jQuery, Modernizr, Backbone, Underscore).
 *   Experience with the latest and greatest web standards, including HTML5 and CSS3 (W3C).
-*   Experience working with REST APIs.
-*   Experience testing and developing across multiple browsers while maintaining a consistent experience.
-*   Experience working with graceful degradation y progressive enhancement.
+*   Experience at working with REST APIs.
+*   Experience at testing and developing across multiple browsers while maintaining a consistent experience.
+*   Experience at working with graceful degradation y progressive enhancement.
 *   Experience with Responsive Web Design.
 *   Experience with NodeJS, Express, Jade, SocketIO and Mongoose.
 *   Experience with GIT (I absolutely love Github).
@@ -61,7 +57,7 @@ I have a broad understanding of the full Open Web Stack of technologies:
 ### 2008–2011
 **Diseñador y Administrador de Sitios Web.**
 
-Intituto de Arte Multimedial Da Vinci.
+Instituto de Arte Multimedial Da Vinci.
 
 ### 2006–2007
 First 2 years of **Licenciatura en Análisis de Sistemas.**
@@ -71,7 +67,7 @@ Universidad de Buenos Aires.
 ### 2001–2005
 **Bachiller con Capacitación Laboral en Comunicación Social**
 
-Insituto Ana María Janer.
+Instituto Ana María Janer.
 
 # Honors and Awards
 
@@ -89,7 +85,7 @@ Winner of Facebook Developers World Hack Latin America 2012. The best overall ap
 ### June 2009
 **Chico UI**: MercadoLibre's a big and complex web site with a lot of needs. Every development and design team needed to be able to build quality and consistent web apps using an agile development process. So we had to find a way to unify the process and guarantee design pattern and user experience quality for every team. And Chico was born.
 
-A lot more of my open source libraries and projects can be found in **my Github account**.
+More of my open source libraries and projects can be found in **my Github account**.
 
 # Speaking
 
