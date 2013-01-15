@@ -10,6 +10,8 @@ I enjoy taking advantage of awesome new browser features without breaking the ex
 
 I write semantic HTML and CSS code that works perfectly on all modern browsers. I love JavaScript and I know its good parts. I keep a close eye on JavaScript development client and server side, user interfaces, interaction design, web technologies and web standards.
 
+I've been developing clean, valid and compatible websites, libraries and UI widgets since the last 5 years. I am skilled to define and maintain well crafted, complex and large libraries.
+
 # Personal Details
 Birth: May 28, 1988
 
