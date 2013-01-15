@@ -4,11 +4,11 @@
 
 # Summary
 
-I am a front end developer from Buenos Aires, Argentina.
+I am a proactive and creative front end developer. I am currently working at MercadoLibre at Buenos Aires, Argentina.
 
-I know and love the good parts of JavaScript. I love taking advantage of awesome new browser features, without breaking the experience on IE8. I can write CSS that works on all modern browsers (IE8+, FF, Chrome, Safari).
+I enjoy taking advantage of awesome new browser features without breaking the experience on older browser. I am up to date with IT trends and innovation. I really love to experiment with new web technologies, APIs and standards.
 
-I keep a close eye on trends and innovations in the field of browser interfaces, JavaScript development and web technologies. I love and desire to experiment with new technologies.
+I write semantic HTML and CSS code that works perfectly on all modern browsers. I love JavaScript and I know its good parts. I keep a close eye on JavaScript development client and server side, user interfaces, interaction design, web technologies and web standards.
 
 # Personal Details
 Birth: May 28, 1988
