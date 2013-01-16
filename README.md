@@ -56,20 +56,20 @@ I have a broad understanding of the full Open Web Stack of technologies:
 
 # Education
 
-### 2008–2011
-**Diseñador y Administrador de Sitios Web.**
+### 2008–2011 (Tertiary education)
+**Designer and Web Site Manager**.
 
-Instituto de Arte Multimedial Da Vinci.
+Da Vinci - Multimedial Art Institute.
 
 ### 2006–2007
-First 2 years of **Licenciatura en Análisis de Sistemas.**
+First year of **Licentiate in Systems Analysis**.
 
-Universidad de Buenos Aires.
+University of Buenos Aires.
 
 ### 2001–2005
-**Bachiller con Capacitación Laboral en Comunicación Social**
+**Assistant to work in Social Communication**.
 
-Instituto Ana María Janer.
+Ana María Janer Secondary School.
 
 # Honors and Awards
 
