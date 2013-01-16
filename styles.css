@@ -122,6 +122,9 @@ ol.timeline {
             color: gray;
             font-size: 110%;
         }
+        ol.timeline > li > .date small {
+            font-size: 14px;
+        }
 
         ol.timeline > li > .date ~ p {
             margin-left: 9rem;
