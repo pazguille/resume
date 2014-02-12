@@ -4,7 +4,7 @@
 h1,
 header > h1 > span,
 header > ul > li:before {
-    color: #B53D25;
+    /*color: #B53D25;*/
 }
 
 /**
@@ -54,6 +54,7 @@ ul {
 
 header {
     text-align: center;
+    margin-bottom: 4em;
 }
 
     header > h1 {
